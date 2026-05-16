@@ -62,22 +62,22 @@
       <dsig:DigestValue>oW753kxtriLB0E5AKNmN6JDzX1YgRV4+fY+MR4WE5nc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Tyvstars kontrol.dll" size="92160">
+  <file name="Tyvstars kontrol.dll" size="93696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j9CtOoeessHuGUzSe54YKAUIap5cTonAUiREFfdFBwo=</dsig:DigestValue>
+      <dsig:DigestValue>42iyrGb13rEZ/wacBtTdQJWoTti+EEnKouciRAxCzW4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Tyvstars kontrol.exe" size="151552">
+  <file name="Tyvstars kontrol.exe" size="151040">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6OX+wYFUV3/+GpXHW4mJTLuMRowO2RVjCn1roaGFucY=</dsig:DigestValue>
+      <dsig:DigestValue>N57rvU21ITKTixt3KjulmAlu3iwPWJuHIWr6SqHf0sc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Tyvstars kontrol.runtimeconfig.json" size="429">

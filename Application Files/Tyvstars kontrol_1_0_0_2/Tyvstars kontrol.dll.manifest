@@ -62,13 +62,13 @@
       <dsig:DigestValue>oW753kxtriLB0E5AKNmN6JDzX1YgRV4+fY+MR4WE5nc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Tyvstars kontrol.dll" size="91648">
+  <file name="Tyvstars kontrol.dll" size="93696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zmkZUfaOutjA3WrooyvpU7NkQY/flfeJ8de2e1YRF8c=</dsig:DigestValue>
+      <dsig:DigestValue>42iyrGb13rEZ/wacBtTdQJWoTti+EEnKouciRAxCzW4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Tyvstars kontrol.exe" size="151040">
